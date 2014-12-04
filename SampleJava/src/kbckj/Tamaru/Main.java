@@ -9,6 +9,7 @@ public class Main {
 		System.out.print("Hello EGit!");
 
 		System.out.println("Hello My name is");
+		System.out.println("Hello My name is YokotaMitsuhiro !");
 	}
 
 }
